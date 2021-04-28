@@ -6,13 +6,16 @@ Keys:
 
 Makes the DVD go faster
 
+
 '-' key
 
 Makes the DVD go slower (can't be negative)
 
+
 'm' key
 
 Makes the window size full screen
+
 
 'i' key 
 
@@ -20,6 +23,7 @@ Makes the window default size (use this to get out of full screen)
 
 You can also resize the screen youself
 
-'ESC'key
+
+'ESC' key
 
 closes the window
